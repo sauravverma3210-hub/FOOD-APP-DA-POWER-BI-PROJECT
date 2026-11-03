@@ -144,7 +144,7 @@ FOOD-APP-DA-POWER-BI-PROJECT/
 
 ## 👨‍💻 Author
 
-**Saurav Kumar Singh**
+**Saurav Kumar **
 
 - GitHub: [sauravverma3210-hub](https://github.com/sauravverma3210-hub)
 - LinkedIn: [www.linkedin.com/in/saurav-kumar-3035a4383](https://www.linkedin.com/in/saurav-kumar-3035a4383)
